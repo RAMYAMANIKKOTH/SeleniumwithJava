@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test2"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.586">
+  <properties />
+  
+  
+            <testcase name="addCustomer" time="0.361" classname="testTestCases.AddCustomer" />
+                <testcase name="addCustomer" time="0.225" classname="testTestCases.AddCustomer" />
+      
+</testsuite>
